@@ -1,4 +1,4 @@
-# Polygamy Detector - C and C++ Implementation
+# Polygamy Detector C and C++ Implementation
 
 ## Project Overview
 This project includes two parallel implementations (C and C++) of a program that identifies individuals who were polygamous, meaning they were simultaneously married to multiple people. Both implementations read from the same data files:
