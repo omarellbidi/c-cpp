@@ -1,3 +1,9 @@
+/* main.c
+ * Main entry point for the polygamy detection program.
+ * Handles command-line arguments, coordinates loading data from files,
+ * and calls the polygamy detection logic.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "person.h"
